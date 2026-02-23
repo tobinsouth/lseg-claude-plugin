@@ -1,5 +1,5 @@
 {
-  "name": "LSEG",
+  "name": "lseg",
   "version": "1.0.0",
   "description": "Price bonds, analyze yield curves, evaluate FX carry trades, value options, and build macro dashboards using LSEG financial data and analytics.",
   "author": {
